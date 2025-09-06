@@ -10,11 +10,10 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Programmer_2003',
-      theme: ThemeData.dark(
-        useMaterial3: true
-      ),
+      theme: ThemeData.dark(useMaterial3: true),
       home: HomePage(),
     );
   }
 }
+
 // ! https://www.youtube.com/watch?v=ql-BTwMslxQ&list=PLyfGAIknOAuRCyNQerjnQhzsZyt4mpEmj&index=10

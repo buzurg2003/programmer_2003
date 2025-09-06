@@ -19,7 +19,10 @@ class HeaderDesktop extends StatelessWidget {
     return // ! MAIN
     Container(
       height: 40,
-      margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 20.0),
+      margin: EdgeInsets.symmetric(
+        vertical: 10.0,
+        horizontal: 20.0,
+      ),
       width: double.maxFinite,
       child: Row(
         children: [

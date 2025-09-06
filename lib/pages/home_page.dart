@@ -1,5 +1,6 @@
+import 'dart:js' as js;
+
 import 'package:flutter/material.dart';
-import 'package:programmer_2003/constants/nav_items.dart';
 
 import '../constants/colors.dart';
 import '../constants/size.dart';
@@ -14,8 +15,6 @@ import '../widgets/main_mobile.dart';
 import '../widgets/projects_section.dart';
 import '../widgets/skills_desktop.dart';
 import '../widgets/skills_mobile.dart';
-
-import 'dart:js' as js;
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -136,17 +135,68 @@ class _HomePageState extends State<HomePage> {
 
   void scrollToSection(int navIndex) {
     if (navIndex == 4) {
+      // Open blog link
       js.context.callMethod('open', [SnsLinks.blog]);
       return;
     }
 
-    final key = navbarKeys[navIndex];
-    if (key.currentContext != null) {
-      Scrollable.ensureVisible(
-        key.currentContext!,
-        duration: const Duration(milliseconds: 500),
-        curve: Curves.easeInOut,
-      );
+    if (navIndex == 5) {
+      // Show language menu
+      _showLanguageMenu();
+      return;
     }
+
+    // Only 0–3 are valid scroll indexes
+    if (navIndex >= 0 && navIndex < navbarKeys.length) {
+      final key = navbarKeys[navIndex];
+      if (key.currentContext != null) {
+        Scrollable.ensureVisible(
+          key.currentContext!,
+          duration: const Duration(milliseconds: 500),
+          curve: Curves.easeInOut,
+        );
+      }
+    }
+  }
+
+  void _showLanguageMenu() {
+    final RenderBox overlay =
+        Overlay.of(context).context.findRenderObject() as RenderBox;
+
+    showMenu(
+      context: context,
+      position: RelativeRect.fromLTRB(
+        overlay.size.width - 150,
+        kToolbarHeight,
+        20,
+        0,
+      ),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(10),
+      ),
+      items: [
+        PopupMenuItem(
+          value: 'en',
+          child: Text('English'),
+        ),
+        PopupMenuItem(
+          value: 'fa',
+          child: Text('فارسی'),
+        ),
+        PopupMenuItem(
+          value: 'tj',
+          child: Text('тоҷикӣ'),
+        ),
+      ],
+    ).then((value) {
+      if (value == 'en') {
+      } else if (value == 'fa') {
+      } else if (value == 'tj') {
+      } else {
+        AlertDialog(
+          content: Text('Please choose a language'),
+        );
+      }
+    });
   }
 }
