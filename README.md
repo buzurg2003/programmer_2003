@@ -1,16 +1,43 @@
-# React + Vite
+# 🚀 Programmer_2003 Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, responsive, and high-performance portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**. This project features a dynamic multi-language system, dark mode support, and a data-driven architecture for easy customization.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## React Compiler
+* **🌍 Multi-language Support:** Seamlessly switch between English, Tajik (Cyrillic), Persian (RTL), and Russian. Automatic layout adjustment for RTL languages.
+* **🌓 Dark & Light Mode:** Fully responsive theme switching that persists using local storage.
+* **🎭 Smooth Animations:** Powered by `framer-motion` for a premium, application-like feel with staggered entrance effects.
+* **📊 Data-Driven Content:** Centralized JSON files (`home_ui.json`, `about_ui.json`) allow you to update your skills, experience, and education without touching the React code.
+* **📱 Fully Responsive:** Optimized for all screen sizes, from mobile devices to ultra-wide monitors.
+* **📜 Dynamic Experience & Education:** Custom timeline and card components to showcase professional growth.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React 18+ (Vite)
+* **Styling:** Tailwind CSS
+* **Animations:** Framer Motion
+* **Icons:** Lucide React
+* **State Management:** React Hooks (useState, useEffect)
+* **Routing:** React Router DOM
+
+---
+
+## 📂 Project Structure
+
+```bash
+public/assets/        # Images, PDF, CV, and profile photos
+src/ 
+├── components/       # Reusable UI components (Navbar, Footer, Modal)
+├── data/             # JSON files (The "Brain" of the project)
+│   ├── blog/         # blog.json data
+│   └── projects/     # details_ui.json & projects.json data
+├── pages/            # Page components (Home.jsx, About.jsx, Projects.jsx)
+│   ├── blogs/        # Blog.jsx & BlogData.jsx
+│   └── projects/     # Projectx.jsx & ProjectDetails.jsx 
+├── App.js            # Main routing and language context logic
+├── index.css         # Styles for whole app
+└── main.jsx          # Entry point
