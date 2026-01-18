@@ -1,0 +1,44 @@
+{
+  "en": {
+    "playStore": "Google Play",
+    "appStore": "App Store",
+    "telegram": "Telegram",
+    "back": "← Back to Projects",
+    "notFound": "Project not found",
+    "backGallery": "Back to gallery",
+    "launch": "Launch Live Site",
+    "repo": "GitHub Repo",
+    "techHeader": "Technologies",
+    "roleHeader": "Role"
+  },
+  "tj": {
+    "back": "← Бозгашт ба лоиҳаҳо",
+    "notFound": "Лоиҳа ёфт нашуд",
+    "backGallery": "Бозгашт ба галерея",
+    "launch": "Гузариш ба сайт",
+    "repo": "GitHub",
+    "techHeader": "Технологияҳо",
+    "roleHeader": "Нақш"
+  },
+  "fa": {
+    "back": "بازگشت به پروژه‌ها →",
+    "notFound": "پروژه یافت نشد",
+    "backGallery": "بازگشت به گالری",
+    "launch": "مشاهده وب‌سایت",
+    "repo": "گیت‌هاب",
+    "techHeader": "تکنولوژی‌ها",
+    "roleHeader": "نقش"
+  },
+  "ru": {
+    "playStore": "Google Play",
+    "appStore": "App Store",
+    "telegram": "Телеграм",
+    "back": "← Назад в проекты",
+    "notFound": "Проект не найден",
+    "backGallery": "Назад в галерее",
+    "launch": "Запуск в реальной времени",
+    "repo": "GitHub репозитория",
+    "techHeader": "Технологии",
+    "roleHeader": "Роль"
+  }
+}

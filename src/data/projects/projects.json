@@ -1,0 +1,1338 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "en": "Furniture App",
+      "tj": "Furniture App",
+      "fa": "Furniture App",
+      "ru": "Furniture App"
+    },
+    "liveUrl": "https://furniture-ecommerce-app.netlify.app/",
+    "repoUrl": "https://github.com/buzurg2003/furniture-ecommerce.git",
+    "tech": "React & Bootstrap & Firebase & React Redux & Framer Motion & React Router Dom & React Toastify & ReactStrap & Remix Icon",
+    "color": "bg-blue-500",
+    "desc": {
+      "en": "Graduation college project | 2023",
+      "tj": "Лоиҳаи хатмкунӣ | 2023",
+      "fa": "لایحه ختم کالج | ۲۰۲۳",
+      "ru": "Выпускной проект колледжа | 2023"
+    },
+    "longDesc": {
+      "en": "This project is written in JavaScript using the ReactJS framework. FurnitureApp is an online kitchen furniture store where customers can purchase furniture at competitive prices.",
+      "tj": "Ин лоиҳа ҳамгироии Stripe-ро барои пардохтҳо дар бар мегирад.",
+      "fa": "این پروژه شامل ادغام Stripe برای پرداخت‌ها است.",
+      "ru": "Этот проект написан на языке JavaScript с использованем фреймворка ReactJS. FurnitureApp - это интернет магазин кухонной мебели в котором клиенты могут купить мебель по выгодной цене"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "images": [
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp1.png",
+        "title": {
+          "en": "Screen 1",
+          "tj": "Тасвири 1",
+          "fa": "تصویر ۱",
+          "ru": "Рисунок 1"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp2.png",
+        "title": {
+          "en": "Screen 2",
+          "tj": "Тасвири 2",
+          "fa": "تصویر ۲",
+          "ru": "Рисунок 2"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp3.png",
+        "title": {
+          "en": "Screen 3",
+          "tj": "Тасвири 3",
+          "fa": "تصویر ۳",
+          "ru": "Рисунок 3"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp4.png",
+        "title": {
+          "en": "Screen 4",
+          "tj": "Тасвири 4",
+          "fa": "تصویر ۴",
+          "ru": "Рисунок 4"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp5.png",
+        "title": {
+          "en": "Screen 5",
+          "tj": "Тасвири 5",
+          "fa": "تصویر ۵",
+          "ru": "Рисунок 5"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp6.png",
+        "title": {
+          "en": "Screen 6",
+          "tj": "Тасвири 6",
+          "fa": "تصویر ۶",
+          "ru": "Рисунок 6"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp7.png",
+        "title": {
+          "en": "Screen 7",
+          "tj": "Тасвири 7",
+          "fa": "تصویر ۷",
+          "ru": "Рисунок 7"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp8.png",
+        "title": {
+          "en": "Screen 8",
+          "tj": "Тасвири 8",
+          "fa": "تصویر ۸",
+          "ru": "Рисунок 8"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp9.png",
+        "title": {
+          "en": "Screen 9",
+          "tj": "Тасвири 9",
+          "ru": "Рисунок 9"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp10.png",
+        "title": {
+          "en": "Screen 10",
+          "tj": "Тасвири 10",
+          "fa": "تصویر ۱۰",
+          "ru": "Рисунок 10"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp11.png",
+        "title": {
+          "en": "Screen 11",
+          "tj": "Тасвири 11",
+          "fa": "تصویر ۱۱",
+          "ru": "Рисунок 11"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp12.png",
+        "title": {
+          "en": "Screen 12",
+          "tj": "Тасвири 12",
+          "fa": "تصویر ۱۲",
+          "ru": "Рисунок 12"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp13.png",
+        "title": {
+          "en": "Screen 13",
+          "tj": "Тасвири 13",
+          "fa": "تصویر ۱۳",
+          "ru": "Рисунок 13"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp14.png",
+        "title": {
+          "en": "Screen 14",
+          "tj": "Тасвири 14",
+          "fa": "تصویر ۱۴",
+          "ru": "Рисунок 14"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/furniture-app/FurnitureApp15.png",
+        "title": {
+          "en": "Screen 15",
+          "tj": "Тасвири 15",
+          "fa": "تصویر ۱۵",
+          "ru": "Рисунок 15"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": {
+      "en": "Apocalypse",
+      "tj": "Apocalypse",
+      "fa": "Apocalypse"
+    },
+    "tech": "React & React Router Dom & React Scripts & Bootstrap ",
+    "color": "bg-purple-500",
+    "desc": {
+      "en": "Apocalypse ReactJS App",
+      "tj": "Барномаи Апокалипсис ReactJS",
+      "fa": "برنامه ReactJS آخرالزمان",
+      "ru": "Приложение Apocalypse на ReactJS."
+    },
+    "longDesc": {
+      "en": "Apocalypse ReactJS App",
+      "tj": "Барномаи Апокалипсис ReactJS",
+      "fa": "برنامه ReactJS آخرالزمان",
+      "ru": "Приложение Apocalypse на ReactJS."
+    },
+    "repoUrl": "https://github.com/buzurg2003/Apocalypse---ReactJS.git",
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "images": [
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse1.png",
+        "title": {
+          "en": "Screen 1",
+          "tj": "Тасвири 1",
+          "fa": "تصویر ۱",
+          "ru": "Рисунок 1"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse2.png",
+        "title": {
+          "en": "Screen 2",
+          "tj": "Тасвири 2",
+          "fa": "تصویر 2",
+          "ru": "Рисунок 2"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse3.png",
+        "title": {
+          "en": "Screen 3",
+          "tj": "Тасвири 3",
+          "fa": "تصویر 3",
+          "ru": "Рисунок 3"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse4.png",
+        "title": {
+          "en": "Screen 4",
+          "tj": "Тасвири 4",
+          "fa": "تصویر 4",
+          "ru": "Рисунок 4"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse5.png",
+        "title": {
+          "en": "Screen 5",
+          "tj": "Тасвири 5",
+          "fa": "تصویر 5",
+          "ru": "Рисунок 5"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse6.png",
+        "title": {
+          "en": "Screen 6",
+          "tj": "Тасвири 6",
+          "fa": "تصویر 6",
+          "ru": "Рисунок 6"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/apocalypse/Apocalypse(Mobile).png",
+        "title": {
+          "en": "Screen Mobile",
+          "tj": "Тасвир дар мобайл",
+          "fa": "تصویر mobile",
+          "ru": "Мобильная версия сайта"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": {
+      "en": "Guna Music Player",
+      "tj": "Guna Music Player",
+      "fa": "Guna Music Player",
+      "ru": "Guna Music Player"
+    },
+    "tech": "C# & Windows Forms",
+    "color": "bg-indigo-500",
+    "desc": {
+      "en": "This project was my course project in 2022.",
+      "tj": "Ин лоиҳаҳо лоиҳаи курсии ман дар соли 2022 буд.",
+      "fa": "این پروژه، پروژه درسی من در سال ۲۰۲۲ بود.",
+      "ru": "Этот проект был моей курсовой работой в 2022 году."
+    },
+    "longDesc": {
+      "en": "This project was my course project in 2022.",
+      "tj": "Ин лоиҳаҳо лоиҳаи курсии ман дар соли 2022 буд.",
+      "fa": "این پروژه، پروژه درسی من در سال ۲۰۲۲ بود.",
+      "ru": "Этот проект был моей курсовой работой в 2022 году."
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/GunaMusicPlayer.git",
+    "images": [
+      {
+        "url": "/assets/projects/guna-app/logo.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/guna-app/guna_1.png",
+        "title": {
+          "en": "Screen 1",
+          "tj": "Тасвири 1",
+          "fa": "تصویر ۱",
+          "ru": "Рисунок 1"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/guna-app/guna_2.png",
+        "title": {
+          "en": "Screen 2",
+          "tj": "Тасвири 2",
+          "fa": "تصویر ۱",
+          "ru": "Рисунок 2"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/guna-app/guna_3.png",
+        "title": {
+          "en": "Screen 3",
+          "tj": "Тасвири 3",
+          "fa": "تصویر ۱",
+          "ru": "Рисунок 3"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/guna-app/guna_4.png",
+        "title": {
+          "en": "Screen 4",
+          "tj": "Тасвири 4",
+          "fa": "تصویر ۱",
+          "ru": "Рисунок 4"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": {
+      "en": "Care Pet Bot",
+      "tj": "Care Pet Bot",
+      "fa": "Care Pet Bot",
+      "ru": "Care Pet Bot"
+    },
+    "tech": "Python & PyTorch",
+    "color": "bg-emerald-500",
+    "desc": {
+      "en": "Graduation Project | 2025.",
+      "tj": "Лоиҳаи хатмкунӣ | 2025.",
+      "fa": "پروژه فارغ التحصیلی | ۲۰۲۵.",
+      "ru": "Выпускной проект | 2025"
+    },
+    "longDesc": {
+      "en": "Graduation Project | 2025.",
+      "tj": "Лоиҳаи хатмкунӣ | 2025.",
+      "fa": "پروژه فارغ التحصیلی | ۲۰۲۵.",
+      "ru": "Выпускной проект | 2025"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/chat_bot.git",
+    "telegramUrl": "https://t.me/DiplomaCare_pet_bot",
+    "images": [
+      {
+        "url": "/assets/projects/care_pet_bot/logo.jpg",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/care_pet_bot/care_pet_bot.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": {
+      "en": "Subaru Nation",
+      "tj": "Subaru Nation",
+      "fa": "Subaru Nation",
+      "ru": "Subaru Nation"
+    },
+    "tech": "Flutter & Supabase",
+    "color": "bg-orange-500",
+    "desc": {
+      "en": "Hobby (PET) Project",
+      "tj": "Лоиҳаи ҳаваскорӣ (PET)",
+      "fa": "پروژه سرگرمی (PET)",
+      "ru": "Хобби (ПЕТ) проект"
+    },
+    "longDesc": {
+      "en": "Hobby (PET) Project",
+      "tj": "Лоиҳаи ҳаваскорӣ (PET)",
+      "fa": "پروژه سرگرمی (PET)",
+      "ru": "Хобби (ПЕТ) проект"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/subaru_nation.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "images": [
+      {
+        "url": "/assets/projects/subaru_nation/logo.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/1.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/2.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/3.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/4.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/5.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/6.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/7.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/8.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/9.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/subaru_nation/10.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": {
+      "en": "Coffee App",
+      "tj": "Coffee App",
+      "fa": "Coffee App",
+      "ru": "Coffee App"
+    },
+    "tech": "Flutter & Firebase",
+    "color": "bg-rose-500",
+    "longDesc": {
+      "en": "Hobby project",
+      "tj": "Лоиҳаи ҳаваскорӣ (PET).",
+      "fa": "پروژه سرگرمی (PET)",
+      "ru": "Хобби (ПЭТ) проект"
+    },
+    "desc": {
+      "en": "Hobby project",
+      "tj": "Лоиҳаи ҳаваскорӣ (PET).",
+      "fa": "پروژه سرگرمی (PET)",
+      "ru": "Хобби (ПЭТ) проект"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/coffee_app.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "images": [
+      {
+        "url": "/assets/projects/coffee-app/cappuccino.png",
+        "title": {
+          "en": "Screen Logo",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/coffee-app/screens/Home.png",
+        "title": {
+          "en": "Home Page",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/coffee-app/screens/AddedItems.png",
+        "title": {
+          "en": "Added Items Page",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/coffee-app/screens/CoffeeTile.png",
+        "title": {
+          "en": "Coffee Tile Page",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/coffee-app/screens/SettingsPage.png",
+        "title": {
+          "en": "Settings Page",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/coffee-app/screens/firebase.png",
+        "title": {
+          "en": "Firebase Page",
+          "tj": "Тасвири Logo",
+          "fa": "تصویر Logo",
+          "ru": "Рисунок Logo"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": {
+      "en": "Shop List",
+      "tj": "Shop List",
+      "fa": "Shop List",
+      "ru": "Shop List"
+    },
+    "tech": "Jetpack Compose & Figma",
+    "color": "bg-rose-500",
+    "desc": {
+      "en": "Jetpack Compose Project",
+      "tj": "Лоиҳаи Jetpack Compose",
+      "fa": "پروژه Jetpack Compose",
+      "ru": "Проект на Jetpack Compose"
+    },
+    "longDesc": {
+      "en": "Jetpack Compose Project",
+      "tj": "Лоиҳаи Jetpack Compose",
+      "fa": "پروژه Jetpack Compose",
+      "ru": "Проект на Jetpack Compose"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/ShopList.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "images": [
+      {
+        "url": "/assets/projects/shop-list/figma.png",
+        "title": {
+          "en": "Figma",
+          "tj": "Figma",
+          "fa": "Figma",
+          "ru": "Figma"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/home_page.png",
+        "title": {
+          "en": "Home Screen",
+          "tj": "Тасвири Home",
+          "fa": "تصویر Home",
+          "ru": "Экран Home"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/favorites_page.png",
+        "title": {
+          "en": "Favorites Page",
+          "tj": "Тасвири Favorites",
+          "fa": "تصویر Favorites",
+          "ru": "Экран Favorites"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/select_size.png",
+        "title": {
+          "en": "Select Size",
+          "tj": "Select Size",
+          "fa": "Select Size",
+          "ru": "Выбор размера"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/add_to_fav_msg.png",
+        "title": {
+          "en": "Add to favorites",
+          "tj": "Ба дӯстдоштаҳо илова кардан",
+          "fa": "Add to favorites",
+          "ru": "Добавить в избранное"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/buy_message.png",
+        "title": {
+          "en": "Buy message",
+          "tj": "Buy message",
+          "fa": "Buy message",
+          "ru": "Сообщение Buy"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/chat_with_manager.png",
+        "title": {
+          "en": "Chat with manager",
+          "tj": "Сӯҳбат бо мудир",
+          "fa": "چت با مدیر",
+          "ru": "Пообщаться с менеджером"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/count_of_product.png",
+        "title": {
+          "en": "Count of product",
+          "tj": "Шумораи маҳсулот",
+          "fa": "تعداد محصول",
+          "ru": "Количество товара"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/shop-list/screens/navigation_drawer.png",
+        "title": {
+          "en": "Navigation drawer",
+          "tj": "Navigation drawer",
+          "fa": "Navigation drawer",
+          "ru": "Navigation drawer"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": {
+      "en": "My Subscription",
+      "tj": "My Subscription",
+      "fa": "My Subscription",
+      "ru": "My Subscription"
+    },
+    "tech": "Flutter & Figma",
+    "color": "bg-rose-500",
+    "desc": {
+      "en": "Flutter test task",
+      "tj": "Вазифаи санҷишии Flutter",
+      "fa": "اوظیفه تست Flutter",
+      "ru": "Тестовое задание на Flutter"
+    },
+    "longDesc": {
+      "en": "Flutter test task",
+      "tj": "Вазифаи санҷишии Flutter",
+      "fa": "اوظیفه تست Flutter",
+      "ru": "Тестовое задание на Flutter"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/my_subscribtion.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "images": [
+      {
+        "url": "/assets/projects/my_supscription/figma_app.png",
+        "title": {
+          "en": "Figma",
+          "tj": "Figma",
+          "fa": "Figma",
+          "ru": "Figma"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/1.png",
+        "title": {
+          "en": "Home Screen",
+          "tj": "Экрани Screen",
+          "fa": "Home Screen",
+          "ru": "Экран Home"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/1_1.png",
+        "title": {
+          "en": "Home Screen 1_1",
+          "tj": "Home Screen 1_1",
+          "fa": "Home Screen 1_1",
+          "ru": "Home Screen 1_1"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/1_2.png",
+        "title": {
+          "en": "Home Screen 1_2",
+          "tj": "Home Screen 1_2",
+          "fa": "Home Screen 1_2",
+          "ru": "Home Screen 1_2"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/2.png",
+        "title": {
+          "en": "Home Screen 2",
+          "tj": "Home Screen 2",
+          "fa": "Home Screen 2",
+          "ru": "Home Screen 2"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/3.png",
+        "title": {
+          "en": "Home Screen 3",
+          "tj": "Home Screen 3",
+          "fa": "Home Screen 3",
+          "ru": "Home Screen 3"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/cancel.png",
+        "title": {
+          "en": "Home Screen Cancel",
+          "tj": "Home Screen Cancel",
+          "fa": "Home Screen Cancel",
+          "ru": "Home Screen Cancel"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/extra_1.png",
+        "title": {
+          "en": "Home Screen Extra 1",
+          "tj": "Home Screen Extra 1",
+          "fa": "Home Screen Extra 1",
+          "ru": "Home Screen Extra 1"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/extra_2.png",
+        "title": {
+          "en": "Home Screen Extra 2",
+          "tj": "Home Screen Extra 2",
+          "fa": "Home Screen Extra 2",
+          "ru": "Home Screen Extra 2"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/my_supscription/screens/qr.png",
+        "title": {
+          "en": "Home Screen qr",
+          "tj": "Home Screen qr",
+          "fa": "Home Screen qr",
+          "ru": "Home Screen qr"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": {
+      "en": "Courses App",
+      "tj": "Courses App",
+      "fa": "Courses App",
+      "ru": "Courses App"
+    },
+    "tech": "Flutter & Figma",
+    "color": "bg-rose-500",
+    "desc": {
+      "en": "Flutter test task",
+      "tj": "Супориши санҷишии Flutter",
+      "fa": "وظیفه تست Flutter",
+      "ru": "Тестовое задание на Flutter"
+    },
+    "longDesc": {
+      "en": "Flutter test task",
+      "tj": "Супориши санҷишии Flutter",
+      "fa": "وظیفه تست Flutter",
+      "ru": "Тестовое задание на Flutter"
+    },
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "repoUrl": "https://github.com/buzurg2003/courses_app.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "images": [
+      {
+        "url": "/assets/projects/courses-app/app_screen.png",
+        "title": {
+          "en": "Home Screen qr",
+          "tj": "Home Screen qr",
+          "fa": "Home Screen qr",
+          "ru": "Home Screen qr"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": {
+      "en": "Weather App",
+      "tj": "Weather App",
+      "fa": "Weather App",
+      "ru": "Weather App"
+    },
+    "tech": "Flutter & HTTP",
+    "color": "bg-rose-500",
+    "desc": {
+      "en": "Flutter & API",
+      "tj": "Flutter & API",
+      "fa": "Flutter & API",
+      "ru": "Flutter & API"
+    },
+    "longDesc": {
+      "en": "Flutter & API",
+      "tj": "Flutter & API",
+      "fa": "Flutter & API",
+      "ru": "Flutter & API"
+    },
+    "image": ""
+  },
+  {
+    "id": 11,
+    "title": {
+      "en": "Weather App",
+      "tj": "Weather App",
+      "fa": "Weather App",
+      "ru": "Weather App"
+    },
+    "tech": "Jetpack Compose & Dagger Hilt",
+    "color": "bg-rose-500",
+    "desc": {
+      "en": "Jetpack Compose & API",
+      "tj": "Jetpack Compose & API",
+      "fa": "Jetpack Compose & API",
+      "ru": "Jetpack Compose & API"
+    },
+    "longDesc": {
+      "en": "Jetpack Compose & API",
+      "tj": "Jetpack Compose & API",
+      "fa": "Jetpack Compose & API",
+      "ru": "Jetpack Compose & API"
+    },
+    "image": ""
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "en": {
+    "title": "Selected Works",
+    "subtitle": "My latest portfolio projects",
+    "viewBtn": "View Project →"
+  },
+  "tj": {
+    "title": "Корҳои интихобшуда",
+    "subtitle": "Лоиҳаҳои охирини мо",
+    "viewBtn": "Назар ба лоиҳа →"
+  },
+  "fa": {
+    "title": "نمونه کارهای برگزیده",
+    "subtitle": "آخرین پروژه‌های ما",
+    "viewBtn": "مشاهده پروژه ←"
+  },
+  "ru": {
+    "title": "Избранные проекты",
+    "subtitle": "Мои последние проекты из портфолио",
+    "viewBtn": "Просмотреть проект →"
+  }
+}

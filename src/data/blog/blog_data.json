@@ -1,0 +1,150 @@
+{
+  "en": {
+    "title": "My Blog",
+    "subtitle": "Thoughts, tutorials, and insights on mobile & web development.",
+    "readMore": "Read Article",
+    "readingTime": "min read",
+    "backText": "Back",
+    "posts": [
+      {
+        "id": 1,
+        "title": "Mastering Flutter State Management",
+        "category": "Mobile",
+        "date": "Jan 10, 2026",
+        "readTime": "5",
+        "excerpt": "Exploring the differences between Provider, Riverpod, and Bloc in modern Flutter apps.",
+        "image": "/assets/blogs/blog1.jpg",
+        "quote": "State management is not about where you put data, but how you track its changes.",
+        "content": [
+          "In the world of Flutter, state management is a topic that sparks endless debate. From the simplicity of Provider to the robust architecture of Bloc, developers are spoiled for choice.",
+          "As we move into 2026, Riverpod has gained significant traction due to its compile-time safety and lack of dependency on the BuildContext, making code more testable and cleaner."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "React Performance Optimization",
+        "category": "Web",
+        "date": "Jan 05, 2026",
+        "readTime": "8",
+        "excerpt": "How to use useMemo, useCallback, and React.memo to keep your apps lightning fast.",
+        "image": "/assets/blogs/blog2.png",
+        "quote": "The fastest code is the code that never runs.",
+        "content": [
+          "React is fast by default, but as applications grow, unnecessary re-renders can slow down the user experience.",
+          "Using hooks like useMemo and useCallback correctly can prevent heavy computations from running on every render."
+        ]
+      }
+    ]
+  },
+  "fa": {
+    "title": "وبلاگ من",
+    "subtitle": "اندیشه ها و دستورها عاید به تهیه موبایل و وب",
+    "readMore": "خواندن مقاله",
+    "readingTime": "دقیقه خوانش",
+    "backText": "بازگشت",
+    "posts": [
+      {
+        "id": 1,
+        "title": "اداره کنی حالت در Flutter",
+        "category": "موبایلی",
+        "date": "۱۰ یانوار ۲۰۲۶",
+        "readTime": "۵",
+        "excerpt": "آموزش فرقیت های بین Provider، Riverpod و Bloc در برنامه های معاصر",
+        "image": "/assets/blogs/blog1.jpg",
+        "quote": "مدیریت وضعیت در مورد محل قرارگیری داده‌ها نیست، بلکه در مورد نحوه ردیابی تغییرات آن‌هاست.",
+        "content": [
+          "در دنیای فلاتر، مدیریت وضعیت موضوعی است که بحث‌های بی‌پایانی را برمی‌انگیزد. از سادگی Provider تا معماری قدرتمند Bloc، توسعه‌دهندگان گزینه‌های زیادی دارند.",
+          "با ورود به سال ۲۰۲۶، Riverpod به دلیل امنیت در زمان کامپایل محبوبیت زیادی پیدا کرده است."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "بهسازی سرعت React",
+        "category": "وب",
+        "date": "۰۵ یانوار ۲۰۲۶",
+        "readTime": "۸",
+        "excerpt": "چی طور useMemo ،useCallback و React.memo را استفاده بردن ممکن است.",
+        "image": "/assets/blogs/blog2.png",
+        "quote": "سریع‌ترین کد، کدی است که هرگز اجرا نمی‌شود.",
+        "content": [
+          "ریاکت به طور پیش‌فرض سریع است، اما با بزرگ شدن برنامه‌ها، رندرهای مجدد غیرضروری می‌تواند تجربه کاربری را کند کند.",
+          "استفاده صحیح از هوک‌هایی مانند useMemo و useCallback می‌تواند از اجرای محاسبات سنگین جلوگیری کند."
+        ]
+      }
+    ]
+  },
+  "tj": {
+    "title": "Блоги ман",
+    "subtitle": "Андешаҳо ва дастурҳо оид ба таҳияи мобилӣ ва веб.",
+    "readMore": "Хондани мақола",
+    "readingTime": "дақ. мутолиа",
+    "backText": "Бозгашт",
+    "posts": [
+      {
+        "id": 1,
+        "title": "Идоракунии ҳолат дар Flutter",
+        "category": "Мобилӣ",
+        "date": "10 январи 2026",
+        "readTime": "5",
+        "excerpt": "Омӯзиши фарқиятҳои байни Provider, Riverpod ва Bloc дар барномаҳои муосири Flutter.",
+        "image": "/assets/blogs/blog1.jpg",
+        "quote": "Идоракунии ҳолат на дар бораи он ки шумо маълумотро дар куҷо мегузоред, балки дар бораи чӣ гуна пайгирӣ кардани тағироти он мебошад.",
+        "content": [
+          "Дар ҷаҳони Flutter, идоракунии ҳолат мавзӯест, ки баҳсҳои беохирро ба вуҷуд меорад.",
+          "Вақте ки мо ба соли 2026 ворид мешавем, Riverpod бо сабаби бехатарии замони компилятсия маъруфияти зиёд пайдо кардааст."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Оптимизатсияи самаранокии React",
+        "category": "Веб",
+        "date": "05 январи 2026",
+        "readTime": "8",
+        "excerpt": "Чӣ тавр useMemo, useCallback ва React.memo-ро истифода бурдан мумкин аст.",
+        "image": "/assets/blogs/blog2.png",
+        "quote": "Рамзи зудтарин рамзест, ки ҳеҷ гоҳ иҷро намешавад.",
+        "content": [
+          "React ба таври пешфарз зуд аст, аммо вақте ки барномаҳо калон мешаванд, рендерингҳои нолозим метавонанд суст шаванд.",
+          "Истифодаи дурусти hook-ҳо ба монанди useMemo ва useCallback метавонад муфид бошад."
+        ]
+      }
+    ]
+  },
+  "ru": {
+    "title": "Мой блог",
+    "subtitle": "Размышления, обучающие материалы и полезные советы по разработке мобильных и веб-приложений.",
+    "readMore": "Прочитать статью",
+    "readingTime": "минуты чтения",
+    "backText": "Назад",
+    "posts": [
+      {
+        "id": 1,
+        "title": "Освоение управления состоянием Flutter",
+        "category": "Mobile",
+        "date": "10 января 2026",
+        "readTime": "5",
+        "excerpt": "Изучение различий между Provider, Riverpod и Bloc в современных приложениях Flutter.",
+        "image": "/assets/blogs/blog1.jpg",
+        "quote": "Управление государством заключается не в том, где вы размещаете данные, а в том, как вы отслеживаете их изменения.",
+        "content": [
+          "В мире Flutter управление состоянием — тема, вызывающая бесконечные споры. От простоты Provider до надежной архитектуры Bloc — у разработчиков огромный выбор.",
+          "В 2026 году Riverpod значительно укрепил свои позиции благодаря безопасности на этапе компиляции и отсутствию зависимости от BuildContext, что делает код более тестируемым и чистым."
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Оптимизация производительности React",
+        "category": "Web",
+        "date": "5 января 2026",
+        "readTime": "8",
+        "excerpt": "Как использовать useMemo, useCallback и React.memo, чтобы ваши приложения работали молниеносно.",
+        "image": "/assets/blogs/blog2.png",
+        "quote": "Самый быстрый код — это код, который никогда не запускается.",
+        "content": [
+          "React по умолчанию работает быстро, но по мере роста приложений ненужные перерисовки могут замедлять работу пользовательского интерфейса.",
+          "Правильное использование таких хуков, как useMemo и useCallback, может предотвратить выполнение ресурсоемких вычислений при каждом рендеринге."
+        ]
+      }
+    ]
+  }
+}

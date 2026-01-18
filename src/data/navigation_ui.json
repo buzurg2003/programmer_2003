@@ -1,0 +1,122 @@
+{
+  "header": {
+    "en": {
+      "name": "Buzurgmehr",
+      "links": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "About me",
+          "path": "/about"
+        },
+        {
+          "name": "Projects",
+          "path": "/projects"
+        },
+        {
+          "name": "Blog",
+          "path": "/blog"
+        },
+        {
+          "name": "Contact",
+          "path": "/contact"
+        }
+      ]
+    },
+    "tj": {
+      "name": "Бузургмеҳр",
+      "links": [
+        {
+          "name": "Асосӣ",
+          "path": "/"
+        },
+        {
+          "name": "Дар бораи ман",
+          "path": "/about"
+        },
+        {
+          "name": "Лоиҳаҳо",
+          "path": "/projects"
+        },
+        {
+          "name": "Блог",
+          "path": "/blog"
+        },
+        {
+          "name": "Тамос",
+          "path": "/contact"
+        }
+      ]
+    },
+    "fa": {
+      "name": "بزرگمهر",
+      "links": [
+        {
+          "name": "اساسی",
+          "path": "/"
+        },
+        {
+          "name": "درباره من",
+          "path": "/about"
+        },
+        {
+          "name": "لایحه ها",
+          "path": "/projects"
+        },
+        {
+          "name": "بلاگ",
+          "path": "/blog"
+        },
+        {
+          "name": "تماس",
+          "path": "/contact"
+        }
+      ]
+    },
+    "ru": {
+      "name": "Бузургмехр",
+      "links": [
+        {
+          "name": "Главная",
+          "path": "/"
+        },
+        {
+          "name": "Обо мне",
+          "path": "/about"
+        },
+        {
+          "name": "Проекты",
+          "path": "/projects"
+        },
+        {
+          "name": "Блог",
+          "path": "/blog"
+        },
+        {
+          "name": "Контакты",
+          "path": "/contact"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "en": {
+      "text": "Built with React & Framer Motion.",
+      "name": "Buzurgmehr"
+    },
+    "tj": {
+      "text": "Бо React ва Framer Motion сохта шудааст.",
+      "name": "Бузургмеҳр"
+    },
+    "fa": {
+      "text": "با React و Framer Motion ساخته شده است.",
+      "name": "بزرگمهر"
+    },
+    "ru": {
+      "text": "Создано с использованием React и Framer Motion.",
+      "name": "Бузургмехр"
+    }
+  }
+}

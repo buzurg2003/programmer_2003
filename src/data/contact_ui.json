@@ -1,0 +1,42 @@
+{
+  "translations": {
+    "en": {
+      "title": "Let's Connect",
+      "subtitle": "Fill out the form or reach out via social media.",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "tj": {
+      "title": "Бо ман дар тамос бошед",
+      "subtitle": "Формро пур кунед ё тавассути шабакаҳои иҷтимоӣ нависед.",
+      "name": "Ном",
+      "email": "Почтаи электронӣ",
+      "message": "Паём",
+      "send": "Фиристодани паём"
+    },
+    "fa": {
+      "title": "با من در تماس باشید",
+      "subtitle": "فرم را پر کنید یا از طریق شبکه‌های اجتماعی پیام دهید.",
+      "name": "نام",
+      "email": "ایمیل",
+      "message": "پیام",
+      "send": "ارسال پیام"
+    },
+    "ru": {
+      "title": "Свяжитесь со мной",
+      "subtitle": "Заполните форму или свяжитесь с нами через социальные сети.",
+      "name": "Имя",
+      "email": "Email",
+      "message": "Сообщение",
+      "send": "Отправить"
+    }
+  },
+  "socials": [
+    { "id": "github", "name": "GitHub", "link": "https://github.com/buzurg2003", "color": "hover:text-gray-900 dark:hover:text-white" },
+    { "id": "linkedin", "name": "LinkedIn", "link": "https://www.linkedin.com/in/buzurgmehr-mirzomurodov-45442a2b7/", "color": "hover:text-blue-600" },
+    { "id": "instagram", "name": "Instagram", "link": "https://www.instagram.com/programmer_2003/", "color": "hover:text-pink-600" },
+    { "id": "medium", "name": "Medium", "link": "https://medium.com/@programmer_2003", "color": "hover:text-black dark:hover:text-gray-200" }
+  ]
+}

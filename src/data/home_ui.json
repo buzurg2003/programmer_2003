@@ -1,0 +1,169 @@
+{
+  "techStack": [
+    "Dart",
+    "Flutter",
+    "Kotlin",
+    "Jetpack Compose",
+    "Firebase",
+    "Supabase",
+    "GitHub",
+    "Git",
+    "JSON",
+    "Provider",
+    "BLoC",
+    "Animations",
+    "Testing"
+  ],
+  "content": {
+    "en": {
+      "name": "Buzurgmehr",
+      "surname": "Mirzomurodov",
+      "available": "Available for new projects",
+      "heroDesc": "I specialize in creating high-performance, accessible, and visually stunning web applications that solve real-world problems.",
+      "btnProjects": "Explore Projects",
+      "btnStory": "My Story",
+      "btnCV": "Download CV",
+      "hireMe": "Open to work",
+      "stats": [
+        {
+          "label": "Years Experience",
+          "value": "1"
+        },
+        {
+          "label": "Projects Completed",
+          "value": "2+"
+        },
+        {
+          "label": "Happy Clients",
+          "value": "100%"
+        },
+        {
+          "label": "Coffee Consumed",
+          "value": "∞"
+        }
+      ],
+      "ctaTitle": "Ready to start a project?",
+      "ctaDesc": "Currently accepting new freelance work and full-time opportunities. Let’s build something amazing together.",
+      "ctaBtn": "Get In Touch"
+    },
+    "tj": {
+      "name": "Бузургмеҳр",
+      "surname": "Мирзомуродов",
+      "available": "Барои лоиҳаҳои нав омодаам",
+      "heroDesc": "Ман ба сохтани барномаҳои веби баландсифат ва зебо, ки масъалаҳои воқеиро ҳал мекунанд, тахассус дорам.",
+      "btnProjects": "Лоиҳаҳо",
+      "btnStory": "Қиссаи ман",
+      "btnCV": "Зеркашии CV",
+      "hireMe": "Кор бо ман",
+      "stats": [
+        {
+          "label": "Таҷрибаи кори",
+          "value": "1"
+        },
+        {
+          "label": "Лоиҳаҳои иҷрошуда",
+          "value": "2+"
+        },
+        {
+          "label": "Мизоҷони қаноатманд",
+          "value": "100%"
+        },
+        {
+          "label": "Қаҳва нӯшида шуд",
+          "value": "∞"
+        }
+      ],
+      "testimonialTitle": "Фикри одамон",
+      "testimonials": [
+        {
+          "name": "Алекс Ривера",
+          "role": "Директор дар TechFlow",
+          "text": "Кор бо ин таҳиягар бозии моро тағир дод. Суръат ва сифати интерфейс аз интизориҳои мо болотар буд."
+        },
+        {
+          "name": "Сара Чен",
+          "role": "Менеҷери маҳсулот",
+          "text": "Тарҳи ҷолиб ва коди тоза. Сатҳи табдили мо пас аз навсозӣ 25% афзоиш ёфт."
+        }
+      ],
+      "ctaTitle": "Барои оғози лоиҳа омодаед?",
+      "ctaDesc": "Айни замон ман фармоишҳои фриланс ва имкониятҳои кориро қабул мекунам.",
+      "ctaBtn": "Дар тамос бошед"
+    },
+    "fa": {
+      "name": "بزرگمهر",
+      "surname": "میرزومرادوف",
+      "available": "آماده برای پروژه‌های جدید",
+      "heroDesc": "من در ایجاد برنامه‌های وب با کارایی بالا، در دسترس و بصری خیره‌کننده که مشکلات دنیای واقعی را حل می‌کنند، تخصص دارم.",
+      "btnProjects": "مشاهده پروژه‌ها",
+      "btnStory": "داستان من",
+      "btnCV": "دریافت رزومه",
+      "hireMe": "استخدام من",
+      "stats": [
+        {
+          "label": "سال تجربه",
+          "value": "۱"
+        },
+        {
+          "label": "پروژه تکمیل شده",
+          "value": "+۲"
+        },
+        {
+          "label": "رضایت مشتری",
+          "value": "۱۰۰٪"
+        },
+        {
+          "label": "قهوه نوشیده شده",
+          "value": "∞"
+        }
+      ],
+      "testimonialTitle": "نظرات دیگران",
+      "testimonials": [
+        {
+          "name": "الکس ریورا",
+          "role": "مدیر عامل TechFlow",
+          "text": "کار با این توسعه‌دهنده یک تغییر بزرگ بود. سرعت و کیفیت رابط کاربری فراتر از انتظارات ما بود."
+        },
+        {
+          "name": "سارا چن",
+          "role": "مدیر محصول",
+          "text": "طراحی بصری و کد تمیز. نرخ تبدیل ما پس از بازطراحی ۲۵ درصد افزایش یافت."
+        }
+      ],
+      "ctaTitle": "آماده شروع یک پروژه هستید؟",
+      "ctaDesc": "در حال حاضر آماده پذیرش کارهای فریلنسری و فرصت‌های تمام‌وقت هستم. بیایید با هم چیزی شگفت‌انگیز بسازیم.",
+      "ctaBtn": "در تماس باشید"
+    },
+    "ru": {
+      "name": "Бузургмехр",
+      "surname": "Мирзомуродов",
+      "available": "Готов к участию в новых проектах.",
+      "heroDesc": "Я специализируюсь на создании высокопроизводительных, доступных и визуально привлекательных веб-приложений, решающих реальные задачи.",
+      "btnProjects": "Посмотреть проекты",
+      "btnStory": "Моя история",
+      "btnCV": "Скачать CV",
+      "hireMe": "Открыт для работы",
+      "stats": [
+        {
+          "label": "Опыт работы",
+          "value": "1"
+        },
+        {
+          "label": "Завершенные проекты",
+          "value": "2+"
+        },
+        {
+          "label": "Довольные клиенты",
+          "value": "100%"
+        },
+        {
+          "label": "Кофе",
+          "value": "∞"
+        }
+      ],
+      "ctaTitle": "Готовы начать проект?",
+      "ctaDesc": "В настоящее время принимаю новые заказы на фриланс и предложения о работе на полный рабочий день. Давайте вместе создадим что-то потрясающее!",
+      "ctaBtn": "Связаться со мной"
+    }
+  }
+}

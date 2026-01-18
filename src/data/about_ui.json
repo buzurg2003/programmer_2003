@@ -1,0 +1,626 @@
+{
+  "en": {
+    "title": "About Me",
+    "storyTitle": "My Story",
+    "intro": "I am a passionate developer focused on creating high-performance mobile applications.",
+    "journey": "Junior+ Flutter and Ful‑Stack Developer with hands-on internship experience at Colaba and strong foundations in OOP and clean architecture (MVC/MVVM/MVP). Build performant, maintainable mobile apps in Dart/Flutter with state management (Provider, BLoC), testing and animations, and integrate cloud back ends using Firebase/Supabase with REST/JSON. Bachelor’s student at Turan University eager to contribute to high‑impact projects.",
+    "expLabel": "Years Experience",
+    "projectLabel": "Projects Done",
+    "skillsTitle": "Technical Skills",
+    "skills": [
+      "React",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Node.js",
+      "MongoDB",
+      "Dart",
+      "Flutter",
+      "Kotlin",
+      "Jetpack Compose",
+      "Firebase",
+      "GitHub",
+      "Git",
+      "HTML/CSS",
+      "MVC/MVVM/MVP",
+      "JSON",
+      "Provider",
+      "BLoC",
+      "Testing"
+    ],
+    "servicesTitle": "My Services",
+    "servicesSubtitle": "Solutions tailored to your digital needs.",
+    "services": [
+      {
+        "icon": "📱",
+        "title": "Mobile Apps",
+        "desc": "Developing cross-platform mobile applications with Flutter or Jetpack Compose."
+      },
+      {
+        "icon": "💻",
+        "title": "Web Development",
+        "desc": "Building responsive, high-performance websites using React and Next.js."
+      },
+      {
+        "icon": "🚀",
+        "title": "Performance",
+        "desc": "Optimizing applications for maximum speed and efficiency."
+      }
+    ],
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "role": "Full-Stack Developer (Internship)",
+        "company": "Colaba",
+        "duration": "Nov 2025 - Nov 2025",
+        "desc": "Worked with HTML, CSS, JS, Bootstrap, PHP, SQL, MVC, Documenting code. Analyzed system architecture and source code\nCreated clear and structured technical documentation\nDesigned and implemented functionality improvements\nImproved UX and maintainability"
+      }
+    ],
+    "certificatesTitle": "Certifications",
+    "certificatesLinkText": "Official Verification",
+    "certificatesCloseButton": "Close",
+    "certificatesViewDetailsButton": "View Details",
+    "certificates": [
+      {
+        "title": "Flutter and Dart: Developing iOS, Android, and Mobile Apps\n",
+        "org": "IBM / Coursera",
+        "date": "April 21, 2025",
+        "image": "/assets/certificates/coursera/FlutterCertificate.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/PY034XGT7F6D"
+      },
+      {
+        "title": "Android App Capstone",
+        "org": "Meta / Coursera",
+        "date": "March 17, 2025",
+        "image": "/assets/certificates/coursera/AndroidAppCapstone.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9H3MRLUYN4WZ"
+      },
+      {
+        "title": "Working with Data in Android",
+        "org": "Meta / Coursera",
+        "date": "March 2, 2025",
+        "image": "/assets/certificates/coursera/WorkingWithDataInAndroid.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/DW168RB3Y9RS"
+      },
+      {
+        "title": "Advanced Programming in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "February 22, 2025",
+        "image": "/assets/certificates/coursera/AdvancedProgrammingInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OMOSMQ5KS0MN"
+      },
+      {
+        "title": "Create the User Interface in Android Studio",
+        "org": "Meta / Coursera",
+        "date": "February 11, 2025",
+        "image": "/assets/certificates/coursera/CreateTheUserInterfaceInAndroidStudio.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OBBT3L7JNP0A"
+      },
+      {
+        "title": "Introduction to Android Mobile Application Development",
+        "org": "Meta / Coursera",
+        "date": "April 4, 2024",
+        "image": "/assets/certificates/coursera/IntroductionToAndroidMobileApplicationDevelopment.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/7L7FDRPRD65H"
+      },
+      {
+        "title": "Programming Fundamentals in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "April 16, 2024",
+        "image": "/assets/certificates/coursera/ProgrammingFundamentalsInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "Version Control",
+        "org": "Meta / Coursera",
+        "date": "March 28, 2024",
+        "image": "/assets/certificates/coursera/VersionControl.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "React Basics",
+        "org": "Meta / Coursera",
+        "date": "May 24, 2025",
+        "image": "/assets/certificates/coursera/ReactBasics.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      },
+      {
+        "title": "Advanced React",
+        "org": "Meta / Coursera",
+        "date": "May 29, 2025",
+        "image": "/assets/certificates/coursera/AdvancedReact.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "degree": "College degree",
+        "school": "Turan College Almaty",
+        "duration": "Sep 2019 - Jun 2023",
+        "desc": "Focused on software engineering, algorithms, web development, C++, C#, Python and Network."
+      },
+      {
+        "degree": "Bachelor degree",
+        "school": "Turan University Almaty",
+        "duration": "Sep 2023 - Jun 2025",
+        "desc": "Arduino, C++, 1C, Figma, SQL, Discrete Mathematics, Mathematical analysis and etc"
+      }
+    ],
+    "personalInfo": {
+      "location": "Almaty, Kazakhstan",
+      "birthPlace": "Dushanbe, Tajikistan",
+      "birthday": "May 23, 2003",
+      "locationLabel": "Location",
+      "birthPlaceLabel": "Birth Place",
+      "birthdayLabel": "Birthday"
+    }
+  },
+  "tj": {
+    "title": "Дар бораи ман",
+    "storyTitle": "Қиссаи ман",
+    "intro": "Ман таҳиягари дилгарм ҳастам, ки ба сохтани барномаҳои мобилии баландсифат тамаркуз мекунам.",
+    "journey": "Таҳиягари Junior+ Flutter ва Ful‑Stack бо таҷрибаи коромӯзӣ (internship) дар Colaba ва асосҳои мустаҳкам дар OOP ва меъмории тоза (MVC/MVVM/MVP). Барномаҳои мобилии босуръат ва баландсифат бо истифодаи Dart/Flutter ва State Management (Provider, BLoC), санҷиш, аниматсияҳо ва қисматҳои абриро бо истифода аз Firebase/Supabase бо REST/JSON. Донишҷӯи хатмкардаи бакалавр дар Донишгоҳи Турон, ки майли саҳмгузорӣ дар лоиҳаҳои таъсирбахш.",
+    "expLabel": "Соли таҷриба",
+    "projectLabel": "Лоиҳаҳои иҷрошуда",
+    "skillsTitle": "Маҳоратҳои техникӣ",
+    "skills": [
+      "React",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Node.js",
+      "MongoDB",
+      "Dart",
+      "Flutter",
+      "Kotlin",
+      "Jetpack Compose",
+      "Firebase",
+      "GitHub",
+      "Git",
+      "HTML/CSS",
+      "MVC/MVVM/MVP",
+      "JSON",
+      "Provider",
+      "BLoC",
+      "Testing"
+    ],
+    "servicesTitle": "Хизматрасониҳо",
+    "servicesSubtitle": "Қарорҳои мувофиқ ба ниёзҳои рақамии шумо.",
+    "services": [
+      {
+        "icon": "📱",
+        "title": "Барномаҳои мобилӣ",
+        "desc": "Таҳияи барномаҳои мобилии байниплатформавӣ бо Flutter ё Jetpack Compose."
+      },
+      {
+        "icon": "💻",
+        "title": "Таҳияи веб",
+        "desc": "Сохтани вебсайтҳои ҷавобгӯ ва баландсифат бо истифода аз React ва Next.js."
+      },
+      {
+        "icon": "🚀",
+        "title": "Босуръат ва баландсифат",
+        "desc": "Беҳсозии барномаҳо барои суръат ва самаранокии максималӣ."
+      }
+    ],
+    "experienceTitle": "Таҷрибаи корӣ",
+    "experience": [
+      {
+        "role": "Full-Stack барномасоз (Internship)",
+        "company": "Colaba",
+        "duration": "Ноябр 2025 - Ноябр 2025",
+        "desc": "Бо HTML, CSS, JS, Bootstrap, PHP, SQL, MVC, Ҳуҷҷатгузории код кор кардааст. Меъмории система ва рамзи сарчашмаро таҳлил кардааст. Ҳуҷҷатҳои техникии равшан ва сохторӣ таҳия кардааст. Беҳбудиҳои функсионалиро тарҳрезӣ ва амалӣ кардааст. UX ва нигоҳдории беҳтаршуда."
+      }
+    ],
+    "certificatesTitle": "Гувоҳиномаҳо",
+    "certificatesLinkText": "Тасдиқи расмӣ",
+    "certificatesCloseButton": "Бастан",
+    "certificatesViewDetailsButton": "Маълумоти бештар",
+    "certificates": [
+      {
+        "title": "Flutter and Dart: Developing iOS, Android, and Mobile Apps\n",
+        "org": "IBM / Coursera",
+        "date": "21 Апрел 2025",
+        "image": "/assets/certificates/coursera/FlutterCertificate.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/PY034XGT7F6D"
+      },
+      {
+        "title": "Android App Capstone",
+        "org": "Meta / Coursera",
+        "date": "17 Март 2025",
+        "image": "/assets/certificates/coursera/AndroidAppCapstone.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9H3MRLUYN4WZ"
+      },
+      {
+        "title": "Working with Data in Android",
+        "org": "Meta / Coursera",
+        "date": "2 Март 2025",
+        "image": "/assets/certificates/coursera/WorkingWithDataInAndroid.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/DW168RB3Y9RS"
+      },
+      {
+        "title": "Advanced Programming in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "22 Феврал 2025",
+        "image": "/assets/certificates/coursera/AdvancedProgrammingInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OMOSMQ5KS0MN"
+      },
+      {
+        "title": "Create the User Interface in Android Studio",
+        "org": "Meta / Coursera",
+        "date": "11 Феврал 2025",
+        "image": "/assets/certificates/coursera/CreateTheUserInterfaceInAndroidStudio.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OBBT3L7JNP0A"
+      },
+      {
+        "title": "Introduction to Android Mobile Application Development",
+        "org": "Meta / Coursera",
+        "date": "4 Апрел 2024",
+        "image": "/assets/certificates/coursera/IntroductionToAndroidMobileApplicationDevelopment.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/7L7FDRPRD65H"
+      },
+      {
+        "title": "Programming Fundamentals in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "16 Апрел 2024",
+        "image": "/assets/certificates/coursera/ProgrammingFundamentalsInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "Version Control",
+        "org": "Meta / Coursera",
+        "date": "28 Март 2024",
+        "image": "/assets/certificates/coursera/VersionControl.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "React Basics",
+        "org": "Meta / Coursera",
+        "date": "24 Май 2025",
+        "image": "/assets/certificates/coursera/ReactBasics.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      },
+      {
+        "title": "Advanced React",
+        "org": "Meta / Coursera",
+        "date": "29 Май 2025",
+        "image": "/assets/certificates/coursera/AdvancedReact.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      }
+    ],
+    "educationTitle": "Таҳсилот",
+    "education": [
+      {
+        "degree": "Коллеҷ",
+        "school": "Коллеҷи Турони Алмато",
+        "duration": "Сентябр 2019 - Июн 2023",
+        "desc": "Тамаркуз ба муҳандисии нармафзор, алгоритмҳо, таҳияи веб, C++, C#, Python ва шабака."
+      },
+      {
+        "degree": "Бакалавр",
+        "school": "Донишгоҳи Турони Алмато",
+        "duration": "Сентябр 2023 - Июн 2025",
+        "desc": "Arduino, C++, 1C, Figma, SQL, Риёзии дискретӣ, Таҳлили риёзӣ ва ғайра"
+      }
+    ],
+    "personalInfo": {
+      "location": "Алмато, Қазоқистон",
+      "birthPlace": "Душанбе, Тоҷикистон",
+      "birthday": "23 Май 2003",
+      "locationLabel": "Макон",
+      "birthPlaceLabel": "Макони таваллуд",
+      "birthdayLabel": "Зодрӯз"
+    }
+  },
+  "fa": {
+    "title": "درباره من",
+    "storyTitle": "داستان من",
+    "intro": "من یک توسعه‌دهنده مشتاق هستم که بر ایجاد اپلیکیشن‌های وب با کارایی بالا تمرکز دارم.",
+    "journey": "در چند سال گذشته، من از یادگیری اصول اولیه به ساخت سیستم‌های پیچیده رسیده‌ام.",
+    "expLabel": "سال تجربه",
+    "projectLabel": "پروژه انجام شده",
+    "skillsTitle": "مهارت‌های فنی",
+    "skills": [
+      "React",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Node.js",
+      "MongoDB",
+      "Dart",
+      "Flutter",
+      "Kotlin",
+      "Jetpack Compose",
+      "Firebase",
+      "GitHub",
+      "Git",
+      "HTML/CSS",
+      "MVC/MVVM/MVP",
+      "JSON",
+      "Provider",
+      "BLoC",
+      "Testing"
+    ],
+    "servicesTitle": " خدمت رسانی ها",
+    "servicesSubtitle": "راهکارهایی متناسب با نیازهای دیجیتال شما.",
+    "services": [
+      {
+        "icon": "📱",
+        "title": "اپلیکیشن موبایل",
+        "desc": "توسعه برنامه های موبایل چندپلتفرمی با استفاده از Flutter یا Jetpack Compose."
+      },
+      {
+        "icon": "💻",
+        "title": "توسعه وب",
+        "desc": "ساختن وب سایت های باکیفیت با استفاده از ری اکت جی اس."
+      },
+      {
+        "icon": "🚀",
+        "title": "باصعت",
+        "desc": "بهسازی برنامه ها برای سرعت و سمرناکیِ ماکسیمالی."
+      }
+    ],
+    "experienceTitle": "تجربه کاری",
+    "experience": [
+      {
+        "role": "برنامهنویس Full-Stack (Internship)",
+        "company": "Colaba",
+        "duration": "نوامبر ۲۰۲۵ - نوامبر ۲۰۲۵",
+        "desc": "با HTML، CSS، JS، Bootstrap، PHP، SQL، MVC و مستندسازی کد کار کردم. معماری سیستم و کد منبع را تجزیه و تحلیل کردم. مستندات فنی واضح و ساختاریافته تهیه کردم. بهبودهای عملکردی را طراحی و پیاده سازی کردم. تجربه کاربری و قابلیت نگهداری را بهبود بخشیدم."
+      }
+    ],
+    "certificatesTitle": "گواهینامه‌ها",
+    "certificatesLinkText": "تأیید رسمی",
+    "certificatesCloseButton": "بستن",
+    "certificatesViewDetailsButton": "معلومات بیشتر",
+    "certificates": [
+      {
+        "title": "Flutter and Dart: Developing iOS, Android, and Mobile Apps",
+        "org": "IBM / Coursera",
+        "date": "۲۱ آپریل ۲۰۲۵",
+        "image": "/assets/certificates/coursera/FlutterCertificate.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/PY034XGT7F6D"
+      },
+      {
+        "title": "Android App Capstone",
+        "org": "Meta / Coursera",
+        "date": "۱۷ مارت ۲۰۲۵",
+        "image": "/assets/certificates/coursera/AndroidAppCapstone.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9H3MRLUYN4WZ"
+      },
+      {
+        "title": "Working with Data in Android",
+        "org": "Meta / Coursera",
+        "date": "۲ مارت ۲۰۲۵",
+        "image": "/assets/certificates/coursera/WorkingWithDataInAndroid.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/DW168RB3Y9RS"
+      },
+      {
+        "title": "Advanced Programming in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "۲۲ فورال ۲۰۲۵",
+        "image": "/assets/certificates/coursera/AdvancedProgrammingInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OMOSMQ5KS0MN"
+      },
+      {
+        "title": "Create the User Interface in Android Studio",
+        "org": "Meta / Coursera",
+        "date": "۱۱ فورال ۲۰۲۵",
+        "image": "/assets/certificates/coursera/CreateTheUserInterfaceInAndroidStudio.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OBBT3L7JNP0A"
+      },
+      {
+        "title": "Introduction to Android Mobile Application Development",
+        "org": "Meta / Coursera",
+        "date": "۴ آپریل ۲۰۲۴",
+        "image": "/assets/certificates/coursera/IntroductionToAndroidMobileApplicationDevelopment.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/7L7FDRPRD65H"
+      },
+      {
+        "title": "Programming Fundamentals in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "۱۶ آپریل ۲۰۲۴",
+        "image": "/assets/certificates/coursera/ProgrammingFundamentalsInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "Version Control",
+        "org": "Meta / Coursera",
+        "date": "۲۸ مارت ۲۰۲۴",
+        "image": "/assets/certificates/coursera/VersionControl.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "React Basics",
+        "org": "Meta / Coursera",
+        "date": "۲۴ می ۲۰۲۵",
+        "image": "/assets/certificates/coursera/ReactBasics.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      },
+      {
+        "title": "Advanced React",
+        "org": "Meta / Coursera",
+        "date": "۲۹ می ۲۰۲۵",
+        "image": "/assets/certificates/coursera/AdvancedReact.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      }
+    ],
+    "educationTitle": "تحصیلات",
+    "education": [
+      {
+        "degree": "کالج",
+        "school": "کالج توران آلماتی",
+        "duration": "سنتیابر ۲۰۱۹ - ایون ۲۰۲۳",
+        "desc": "تمرکز به مهندسی نرم افزار، الگوریتم ها، تهیه WEB، C++، C#، Python و شبکه ها."
+      },
+      {
+        "degree": "باکالاور",
+        "school": "دانشگاه توران آلماتی",
+        "duration": "سنتیابر ۲۰۲۳ - ایون ۲۰۲۵",
+        "desc": "Arduino، C++، 1C، Figma، SQL، ریاضی دیسکرتی، تحلیلی ریاضی و غیره"
+      }
+    ],
+    "personalInfo": {
+      "location": "آلماتی، قزاقستان",
+      "birthPlace": "دوشنبه، تاجیکستان",
+      "birthday": "۲۳ می ۲۰۰۳",
+      "locationLabel": "مکان",
+      "birthPlaceLabel": "مکانی تولد",
+      "birthdayLabel": "زادروز"
+    }
+  },
+  "ru": {
+    "title": "Обо мне",
+    "storyTitle": "Моя история",
+    "intro": "Я — увлечённый разработчик, специализирующийся на создании высокопроизводительных мобильных приложений.",
+    "journey": "Разработчик начального уровня (Junior+) на Flutter и Full-Stack с практическим опытом стажировки в Colaba и прочными знаниями в области ООП и чистой архитектуры (MVC/MVVM/MVP). Разработка высокопроизводительных и поддерживаемых мобильных приложений на Dart/Flutter с управлением состоянием (Provider, BLoC), тестированием и анимацией, а также интеграция облачных бэкендов с использованием Firebase/Supabase и REST/JSON. Студент бакалавриата в Университете Турана, стремящийся внести свой вклад в высокоэффективные проекты.",
+    "expLabel": "Опыт работы",
+    "projectLabel": "Выполненные проекты",
+    "skillsTitle": "Технические навыки",
+    "skills": [
+      "React",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Node.js",
+      "MongoDB",
+      "Dart",
+      "Flutter",
+      "Kotlin",
+      "Jetpack Compose",
+      "Firebase",
+      "GitHub",
+      "Git",
+      "HTML/CSS",
+      "MVC/MVVM/MVP",
+      "JSON",
+      "Provider",
+      "BLoC",
+      "Testing"
+    ],
+    "servicesTitle": "Мои услуги",
+    "servicesSubtitle": "Решения, разработанные с учетом ваших цифровых потребностей.",
+    "services": [
+      {
+        "icon": "📱",
+        "title": "Мобильные приложения",
+        "desc": "Разработка кроссплатформенных мобильных приложений с использованием Flutter или Jetpack Compose."
+      },
+      {
+        "icon": "💻",
+        "title": "Веб сайты",
+        "desc": "Создание адаптивных, высокопроизводительных веб-сайтов с использованием React и Next.js."
+      },
+      {
+        "icon": "🚀",
+        "title": "Производительность",
+        "desc": "Оптимизация приложений для достижения максимальной скорости и эффективности."
+      }
+    ],
+    "experienceTitle": "Опыт работы",
+    "experience": [
+      {
+        "role": "Full-Stack разработчик (Стажер)",
+        "company": "Colaba",
+        "duration": "Ноябрь 2025 - Ноябрь 2025",
+        "desc": "Работал с HTML, CSS, JS, Bootstrap, PHP, SQL, MVC, занимался документированием кода. Анализировал системную архитектуру и исходный код.\nСоздавал понятную и структурированную техническую документацию.\nРазрабатывал и внедрял улучшения функциональности.\nУлучшал UX и удобство сопровождения."
+      }
+    ],
+    "certificatesTitle": "Сертификаты",
+    "certificatesLinkText": "Официальное подтверждение",
+    "certificatesCloseButton": "Закрыть",
+    "certificatesViewDetailsButton": "Подробнее",
+    "certificates": [
+      {
+        "title": "Flutter and Dart: Developing iOS, Android, and Mobile Apps\n",
+        "org": "IBM / Coursera",
+        "date": "21 апреля 2025",
+        "image": "/assets/certificates/coursera/FlutterCertificate.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/PY034XGT7F6D"
+      },
+      {
+        "title": "Android App Capstone",
+        "org": "Meta / Coursera",
+        "date": "17 марта 2025",
+        "image": "/assets/certificates/coursera/AndroidAppCapstone.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9H3MRLUYN4WZ"
+      },
+      {
+        "title": "Working with Data in Android",
+        "org": "Meta / Coursera",
+        "date": "2 марта 2025",
+        "image": "/assets/certificates/coursera/WorkingWithDataInAndroid.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/DW168RB3Y9RS"
+      },
+      {
+        "title": "Advanced Programming in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "22 февраля 2025",
+        "image": "/assets/certificates/coursera/AdvancedProgrammingInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OMOSMQ5KS0MN"
+      },
+      {
+        "title": "Create the User Interface in Android Studio",
+        "org": "Meta / Coursera",
+        "date": "11 февраля 2025",
+        "image": "/assets/certificates/coursera/CreateTheUserInterfaceInAndroidStudio.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/OBBT3L7JNP0A"
+      },
+      {
+        "title": "Introduction to Android Mobile Application Development",
+        "org": "Meta / Coursera",
+        "date": "4 апреля 2024",
+        "image": "/assets/certificates/coursera/IntroductionToAndroidMobileApplicationDevelopment.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/7L7FDRPRD65H"
+      },
+      {
+        "title": "Programming Fundamentals in Kotlin",
+        "org": "Meta / Coursera",
+        "date": "16 апреля, 2024",
+        "image": "/assets/certificates/coursera/ProgrammingFundamentalsInKotlin.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "Version Control",
+        "org": "Meta / Coursera",
+        "date": "28 марта 2024",
+        "image": "/assets/certificates/coursera/VersionControl.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/9TYM3FVKMM8D"
+      },
+      {
+        "title": "React Basics",
+        "org": "Meta / Coursera",
+        "date": "24 мая 2025",
+        "image": "/assets/certificates/coursera/ReactBasics.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      },
+      {
+        "title": "Advanced React",
+        "org": "Meta / Coursera",
+        "date": "29 мая 2025",
+        "image": "/assets/certificates/coursera/AdvancedReact.jpeg",
+        "link": "https://www.coursera.org/account/accomplishments/verify/LGZH6M3KLJID"
+      }
+    ],
+    "educationTitle": "Образования",
+    "education": [
+      {
+        "degree": "Колледж",
+        "school": "Колледж Туран Алматы",
+        "duration": "Сен 2019 - Июнь 2023",
+        "desc": "Специализация: разработка программного обеспечения, алгоритмы, веб-разработка, C++, C#, Python и сети."
+      },
+      {
+        "degree": "Бакалавр",
+        "school": "Университет Туран Алматы",
+        "duration": "Сен 2023 - Июнь 2025",
+        "desc": "Arduino, C++, 1C, Figma, SQL, Дискретная математика, Математический анализ и т.д."
+      }
+    ],
+    "personalInfo": {
+      "location": "Алматы, Казахстан",
+      "birthPlace": "Душанбе, Таджикистан",
+      "birthday": "23 мая 2003",
+      "locationLabel": "Местоположение",
+      "birthPlaceLabel": "Место рождения",
+      "birthdayLabel": "День рождения"
+    }
+  }
+}
