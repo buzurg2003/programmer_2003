@@ -1309,7 +1309,47 @@
       "fa": "Flutter & API",
       "ru": "Flutter & API"
     },
-    "image": ""
+    "repoUrl": "https://github.com/buzurg2003/weather_app.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "images": [
+      {
+        "url": "/assets/projects/weather-app/flutter/weather_app(dark).png",
+        "title": {
+          "en": "Dark theme",
+          "tj": "Ҳолати торикӣ",
+          "fa": "حالت تاریک",
+          "ru": "Тёмная тема"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/weather-app/flutter/weather_app(light).png",
+        "title": {
+          "en": "Light theme",
+          "tj": "Ҳолати рӯшноӣ",
+          "fa": "حالت روشن",
+          "ru": "Светлая тема"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
   },
   {
     "id": 11,
@@ -1333,6 +1373,46 @@
       "fa": "Jetpack Compose & API",
       "ru": "Jetpack Compose & API"
     },
-    "image": ""
+    "repoUrl": "https://github.com/buzurg2003/RealtimeWeather.git",
+    "googlePlayUrl": "https://play.google.com/",
+    "appStoreUrl": "https://apps.apple.com/",
+    "myRole": {
+      "en": "Lead Developer",
+      "tj": "Таҳиягари асосӣ",
+      "fa": "توسعه‌دهنده ارشد",
+      "ru": "Ведущий разработчик"
+    },
+    "images": [
+      {
+        "url": "/assets/projects/weather-app/android/realtime_weather(dark).png",
+        "title": {
+          "en": "Dark theme",
+          "tj": "Ҳолати торикӣ",
+          "fa": "حالت تاریک",
+          "ru": "Тёмная тема"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      },
+      {
+        "url": "/assets/projects/weather-app/android/realtime_weather(light).png",
+        "title": {
+          "en": "Light theme",
+          "tj": "Ҳолати рӯшноӣ",
+          "fa": "حالت روشن",
+          "ru": "Светлая тема"
+        },
+        "desc": {
+          "en": "Decription",
+          "tj": "Зернавис",
+          "fa": "Zernavis",
+          "ru": "Описание"
+        }
+      }
+    ]
   }
 ]

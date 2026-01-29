@@ -37,6 +37,7 @@
     { "id": "github", "name": "GitHub", "link": "https://github.com/buzurg2003", "color": "hover:text-gray-900 dark:hover:text-white" },
     { "id": "linkedin", "name": "LinkedIn", "link": "https://www.linkedin.com/in/buzurgmehr-mirzomurodov-45442a2b7/", "color": "hover:text-blue-600" },
     { "id": "instagram", "name": "Instagram", "link": "https://www.instagram.com/programmer_2003/", "color": "hover:text-pink-600" },
-    { "id": "medium", "name": "Medium", "link": "https://medium.com/@programmer_2003", "color": "hover:text-black dark:hover:text-gray-200" }
+    { "id": "medium", "name": "Medium", "link": "https://medium.com/@programmer_2003", "color": "hover:text-black dark:hover:text-gray-200" },
+    { "id": "upwork", "name": "Upwork", "link": "https://www.upwork.com/freelancers/~01952dd3b6b4eb9361", "color": "hover:text-black dark:hover:text-gray-200" }
   ]
 }
