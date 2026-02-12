@@ -63,7 +63,6 @@ const Contact = () => {
       case 'github': return <Github size={24} />;
       case 'linkedin': return <Linkedin size={24} />;
       case 'instagram': return <Instagram size={24} />;
-      case 'medium': return <MediumIcon />;
       case 'upwork': return <UpworkIcon />;
       default: return null;
     }
@@ -74,7 +73,6 @@ const Contact = () => {
       case 'github': return 'hover:text-gray-950 dark:hover:text-white';
       case 'linkedin': return 'hover:text-blue-600';
       case 'instagram': return 'hover:text-pink-500';
-      case 'medium': return 'hover:text-green-600';
       case 'upwork': return 'hover:text-emerald-500';
       default: return 'hover:text-blue-500';
     }
